@@ -1,0 +1,6 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=d:/Dropbox/Projects/HW/ESP32/Projects/ESPC3ClockMax7219/.cache/clangd",
+        "--query-driver=C:/Users/sunis/.platformio/packages/toolchain-*/bin/*,C:/Users/sunis/.platformio/packages/tool-*/bin/*"
+    ]
+}
