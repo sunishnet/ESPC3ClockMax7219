@@ -8,7 +8,7 @@
 // Hardcoded WiFi Credentials
 // ====================================================================
 #define WIFI_SSID "Nothing3"
-#define WIFI_PASSWORD "9447010553"
+#define WIFI_PASSWORD "xyxyxyxyx!@#$%&*"
 
 // ====================================================================
 // ESP32-C3 Super Mini Hardware Pin Definitions
